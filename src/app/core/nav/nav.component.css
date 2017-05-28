@@ -17,7 +17,7 @@
     display: inline-block;
     width: 50%;
     box-sizing: border-box;
-    float: left;
+    /* float: left; */
     background-color: #fff;
     text-align: center;
 }
@@ -27,7 +27,7 @@
     font-weight: bold;
     border-bottom: 4px solid #fff;
     display: inline-block;
-    float: left;
+    /* float: left; */
     padding: 0.5em;
     list-style-position: inside;
     background-color: white;
